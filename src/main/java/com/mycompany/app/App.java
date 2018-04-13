@@ -3,6 +3,7 @@ package com.mycompany.app;
 /**
  * Hello world!
  To test CI/CD
+ added triggers
  */
 public class App
 {
