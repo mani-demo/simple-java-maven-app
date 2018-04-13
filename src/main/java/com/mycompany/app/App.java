@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World! Jenkins build success";
+    private final String message = "Hello World! Jenkins build success test on trigger";
 
     public App() {}
 
