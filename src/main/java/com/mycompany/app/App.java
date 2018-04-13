@@ -2,6 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ To test CI/CD
  */
 public class App
 {
