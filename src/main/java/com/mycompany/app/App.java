@@ -4,7 +4,7 @@ package com.mycompany.app;
  * Hello world!
  To test CI/CD
  added triggers
- Added update on 14/04/2018
+ Webhook trigger test
  */
 public class App
 {
