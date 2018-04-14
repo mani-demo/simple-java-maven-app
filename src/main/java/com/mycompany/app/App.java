@@ -2,10 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
- To test CI/CD
- added triggers
- Webhook trigger test
- testing done for trigger
+ Test process for build trigger
  */
 public class App
 {
