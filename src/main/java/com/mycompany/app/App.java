@@ -7,7 +7,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Testing github Integration with Jenkins!";
+    private final String message = "Hello World.. S3 integration test!";
 
     public App() {}
 
