@@ -6,8 +6,8 @@ package com.mycompany.app;
  */
 public class App
 {
-
-    private final String message = "Hello World";
+uild maven
+    private final String message = "Hello World Git hub process done";
 
     public App() {}
 
